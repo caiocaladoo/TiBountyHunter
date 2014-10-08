@@ -1,0 +1,22 @@
+"#capturedLabel":
+{
+	font:{
+		fontWeight:'bold',
+		fontSize:18
+		
+	},
+	textid:'busted',
+	top:'10dp'	
+}
+
+"Button":{
+	top:'10dp',
+	width:'200dp'
+	
+}
+
+
+"#deleteButton":{
+	titleid:'delete'
+	
+}

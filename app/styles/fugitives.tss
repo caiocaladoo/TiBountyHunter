@@ -1,0 +1,20 @@
+"Tab":{
+	icon:'/images/fugitives.png',
+	titleid:'fugitives'
+	
+}
+
+"#fugitivesWindow":
+{
+	titleid:'fugitives'
+}
+
+"#addNewFugitiveButton[platform=ios]":{
+	systemButton:Ti.UI.iPhone.SystemButton.ADD
+}
+
+"#addNewFugitiveButton[platform=android]":{
+	titleid:'add',
+	width:Ti.UI.FILL
+}
+

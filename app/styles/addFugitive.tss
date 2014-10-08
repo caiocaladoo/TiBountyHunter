@@ -1,0 +1,21 @@
+"#addFugitiveWindow":{
+	titleid:'new_fugitive'
+}
+
+"#closeButton":{
+	titleid:'close'
+}
+
+"TextField":{
+	borderStyle:Ti.UI.INPUT_BORDERSTYLE_ROUNDED,
+	width:'200dp',
+	hintText:L('fugitive_name'),
+	top:'20dp'
+}
+
+"#saveButton":{
+	titleid:'save',
+	top:'20dp',
+	height:'40dp',
+	width:'200dp'
+}

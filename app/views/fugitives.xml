@@ -1,0 +1,17 @@
+<Alloy>
+	<Tab id="fugitivesTab">
+		<Window id="fugitivesWindow">		
+			<RightNavButton platform="ios">
+				<Button id="addNewFugitiveButton" onClick="addFugitive"></Button>
+			</RightNavButton>
+			<!--<Menu platform="android">
+				<MenuItem id="addNewFugitiveButton"></MenuItem>
+			</Menu>-->			
+			<TableView onClick="showDetails" dataCollection="Fugitives" dataFilter="fugitiveFilter">
+			<!--<TableView onClick="showDetails" id="fugitivesTableView">-->				
+				<TableViewRow title="{name}" objectId="{alloy_id}"></TableViewRow>			
+			</TableView>
+					
+		</Window>
+	</Tab>
+</Alloy>

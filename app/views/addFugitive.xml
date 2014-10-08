@@ -1,0 +1,11 @@
+<Alloy>
+	<Window id="addFugitiveWindow">
+		<RightNavButton platform="ios">
+			<Button id="closeButton" onClick="close"></Button>
+		
+		</RightNavButton>
+		<TextField id="nameTextField"></TextField>
+		<Button id="saveButton" onClick="save"></Button>
+		
+	</Window>
+</Alloy>

@@ -1,0 +1,38 @@
+"#fugitiveLabel":
+{
+	font:{
+		fontWeight:'bold',
+		fontSize:18
+		
+	},
+	textid:'still_at_large',
+	top:'10dp'	
+}
+
+"Button":{
+	top:'10dp',
+	width:'200dp'
+	
+}
+
+"#captureButton":{
+	titleid:'capture'
+	
+}
+
+"#deleteButton":{
+	titleid:'delete'
+	
+}
+
+"#fugitiveImageView":{
+	top:'10dp',
+	width:'150dp',
+	height:'120dp'
+}
+
+"#addPhotoButton":{
+	titleid:'add_Photo'
+}
+
+

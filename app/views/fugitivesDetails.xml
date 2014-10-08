@@ -1,0 +1,9 @@
+<Alloy>
+        <Window id="fugitiveDetailsWindow">        		
+                <Label id="fugitiveLabel"></Label>
+                <ImageView id="fugitiveImageView"></ImageView>
+                <Button id="addPhotoButton" onClick="addPhoto"></Button>
+                <Button id="captureButton" onClick="captureFugitive"></Button>
+                <Button id="deleteButton" onClick="deleteFugitive"></Button>
+        </Window>
+</Alloy>

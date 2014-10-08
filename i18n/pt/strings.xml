@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="fugitives">Fugitivos</string>
+	<string name="captured">Capturados</string>
+	<string name="still_at_large">Continua Solto</string>
+	<string name="capture">Capturar</string>
+	<string name="delete">Excluir</string>
+	<string name="busted">Preso!</string>
+	<string name="add">Adicionar</string>
+	<string name="new_fugitive">Novo Fugitivo</string>	
+	<string name="close">Fechar</string>
+	<string name="fugitive_name">Nome do Fugitivo</string>
+	<string name="save">Salvar</string>
+	<string name="add_photo">Adicionar Foto</string>
+	<string name="camera_error">Erro na Câmera</string>
+	<string name="camera_error_details">Seu dispositivo precisa de uma câmera para adicionar uma foto</string>			
+	<string name="geo_error">Geolocalização desligada</string>
+	<string name="geo_error_details">Geolocalização está desligada no dispositivo. Não é possível determinar a localização.</string>
+	<string name="fugitive_location">Localização do Fugitivo</string>
+	<string name="map_button">Exibir no Mapa</string>
+</resources>	

@@ -1,0 +1,9 @@
+"Tab":{
+	icon:'/images/captured.png',
+	titleid:'captured'
+}
+"#capturedWindow":
+{
+	titleid:'captured'
+}
+

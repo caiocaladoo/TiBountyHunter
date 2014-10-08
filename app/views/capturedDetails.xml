@@ -1,0 +1,6 @@
+<Alloy>
+        <Window id="capturedDetailsWindow">
+                <Label id="capturedLabel"></Label>
+                <Button id="deleteButton"></Button>
+        </Window>
+</Alloy>
